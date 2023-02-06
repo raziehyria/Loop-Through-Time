@@ -16,8 +16,7 @@ CmpSc472 Lab
 
 5. The clock will sleep after displaying each second.  The initial sleep time will be 100ms.
 
-6. By hitting keys, the user will be able to change the sleep time anywhere between min: 
-100ms  to max: 2000ms.
+6. By hitting keys, the user will be able to change the sleep time anywhere between min: 100ms  to max: 2000ms.
 
 7. In real time, detect, these keystrokes:
   * “+” : This will increase the sleep time by 100ms.  Do not go over the maximum limit.
@@ -27,8 +26,8 @@ CmpSc472 Lab
   * If any other key is hit, go to row 1, col 50 to display this invalid keystroke.
 
 8. The program will end by 1 of 2 ways:
-    a. It loops thru all of the seconds in a day.
-    b. User hits ```<escape>```
+    * It loops thru all of the seconds in a day.
+    * User hits ```<escape>```
 
 # Programming Tips
 
