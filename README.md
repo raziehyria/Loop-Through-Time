@@ -20,11 +20,11 @@ CmpSc472 Lab
 100ms  to max: 2000ms.
 
 7. In real time, detect, these keystrokes:
-    a. “+” : This will increase the sleep time by 100ms.  Do not go over the maximum limit.
-    b. “-“ : This will decrease the sleep time by 100ms. Do not go below the minimum limit.
-    c. ```<esc> ```: will exit the program. Move the cursor to bottom of console window before exiting.
-    d. F5  : Start the clock over at 0:0:0.
-    e. If any other key is hit, go to row 1, col 50 to display this invalid keystroke.
+  a. “+” : This will increase the sleep time by 100ms.  Do not go over the maximum limit.
+  b. “-“ : This will decrease the sleep time by 100ms. Do not go below the minimum limit.
+  c. ```<esc> ```: will exit the program. Move the cursor to bottom of console window before exiting.
+  d. F5  : Start the clock over at 0:0:0.
+  e. If any other key is hit, go to row 1, col 50 to display this invalid keystroke.
 
 8. The program will end by 1 of 2 ways:
     a. It loops thru all of the seconds in a day.
