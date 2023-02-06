@@ -1,8 +1,6 @@
-# Loop-Through-Time
+# Description
 Learning how to Output data all over the Console Window.
 
-
-CmpSc472 Lab
 
 # Requirement
 1. Create a  ”C” program.  Name the program LoopThruTime
@@ -14,14 +12,14 @@ CmpSc472 Lab
 
 4. Have the user hit any key to start the clock.
 
-5. The clock will sleep after displaying each second.  The initial sleep time will be 100ms.
+5. The clock will sleep after displaying each second. The initial sleep time will be 100ms.
 
-6. By hitting keys, the user will be able to change the sleep time anywhere between min: 100ms  to max: 2000ms.
+6. By hitting keys, the user will be able to change the sleep time anywhere between ```min: 100ms to max: 2000ms```.
 
 7. In real time, detect, these keystrokes:
   * “+” : This will increase the sleep time by 100ms.  Do not go over the maximum limit.
   * “-“ : This will decrease the sleep time by 100ms. Do not go below the minimum limit.
-  * ```<esc> ```: will exit the program. Move the cursor to bottom of console window before exiting.
+  * ```<esc>```: will exit the program. Move the cursor to bottom of console window before exiting.
   * F5  : Start the clock over at 0:0:0.
   * If any other key is hit, go to row 1, col 50 to display this invalid keystroke.
 
@@ -31,7 +29,7 @@ CmpSc472 Lab
 
 # Programming Tips
 
-1. You will need nested loops.  It would be easier if you use nested FOR loops, but I want 
-you to use nested WHILE loops.
+1. You will need nested loops.  It would be easier if you use nested ```FOR```loops, but I want 
+you to use nested ```WHILE``` loops.
 
-2. Annotations
+2. Annotations.
