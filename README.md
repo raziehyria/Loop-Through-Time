@@ -1,6 +1,8 @@
 # Description
 Learning how to Output data all over the Console Window.
-
+``` note: 
+    * Needs to be run on pelles c (Windows), W/ microsoft extensions enabled
+    * Automatically runs on start, Idk why '''
 
 # Requirement
 1. Create a  ”C” program.  Name the program LoopThruTime
